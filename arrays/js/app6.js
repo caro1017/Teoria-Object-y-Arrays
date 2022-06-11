@@ -23,3 +23,5 @@ carritoCopia = [...carritoCopia,producto2]
 carritoCopia = [...carritoCopia,producto3]
 
 console.log(carritoCopia)
+
+//Nota
