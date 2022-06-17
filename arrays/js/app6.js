@@ -24,4 +24,4 @@ carritoCopia = [...carritoCopia,producto3]
 
 console.log(carritoCopia)
 
-//Nota
+//una Nota al final
